@@ -1,0 +1,9 @@
+name: simple_dart_dark_theme
+description: Dark Theme
+version: 0.0.1
+repository: https://github.com/simple-dart/dark_theme
+platforms:
+  web:
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
